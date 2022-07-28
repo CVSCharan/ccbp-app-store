@@ -39,13 +39,13 @@
   .app-name {
     color: #1e293b;
     font-family: 'Bree Serif';
-    font-size: 16px;
+    font-size: 14px;
   }
   
   @media screen and (min-width: 768px) {
     .app-name {
       font-family: 'Bree Serif';
-      font-size: 24px;
+      font-size: 20px;
     }
   }
   
